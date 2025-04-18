@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hi there :)
+![Alt Text](https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif)
 
+I'm a MathFinance student at the University of Waterloo, passionate about mathematical research and quantitative finance. I enjoy solving complex puzzles and being creative.
+
+<!--🔭 I’m currently working on a blog to expand my knowledge on data science, market research, web scraping and development.-->
 <!--
 **sqxiao000/sqxiao000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
