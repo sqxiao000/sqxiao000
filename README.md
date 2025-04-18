@@ -1,5 +1,6 @@
 ## Hi there :)
-![Alt Text](https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif)
+
+<img src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif" width="800" height="350"/>
 
 I'm a MathFinance student at the University of Waterloo, passionate about mathematical research and quantitative finance. I enjoy solving complex puzzles and being creative.
 
