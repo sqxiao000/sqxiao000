@@ -1,4 +1,4 @@
-## Hi there :)
+## Hi there ☆
 
 <img src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif" width="800" height="350"/>
 
