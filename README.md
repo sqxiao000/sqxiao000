@@ -2,7 +2,9 @@
 
 <img src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif" width="800" height="350"/>
 
-I'm a MathFinance student at the University of Waterloo, passionate about mathematical research and quantitative finance. I enjoy solving complex puzzles and being creative.
+I'm Stella, a MathFinance student at the University of Waterloo, passionate about mathematical research and quantitative finance. I enjoy solving complex puzzles and being creative. 
+
+I'm currently at a sales and trading internship at Bank of America. I am working on prediction models and enhancement of existing frameworks. I am learning about transformers in deep learning and how they are leveraged in financial markets and trading.
 
 <!--🔭 I’m currently working on a blog to expand my knowledge on data science, market research, web scraping and development.-->
 <!--
