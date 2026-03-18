@@ -1,12 +1,9 @@
-## Hi there ☆
+## Hi there ☆ I'm Stella Xiao
 
 <img src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif" width="800" height="350"/>
 
-I'm Stella, a Mathematical Finance student at the University of Waterloo, passionate about probability and game theory, machine learning, and quantitative finance. I love solving complex puzzles and being creative.
+Mathematical Finance student at the University of Waterloo, passionate about probability and game theory, machine learning, and quantitative finance. I like digging into complex problems and being creative.
 
-✨ I'm currently in school and will be interning at Global X in a quantitative investment role in the winter term!
-
-🌱 I am learning about Stochastic Games on my own and am excited to dive deeper into Deep Learning applications.
 <!--🔭 I’m currently working on a blog to expand my knowledge on data science, market research, web scraping and development.-->
 <!--
 **sqxiao000/sqxiao000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
