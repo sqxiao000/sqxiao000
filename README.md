@@ -1,6 +1,6 @@
 ## Hi there ☆ I'm Stella
 
-Mathematical Finance student at the University of Waterloo, passionate about financial markets, turning data into results, and quantitative finance. I like digging into complex problems and being creative.
+Mathematical Finance student at the University of Waterloo, passionate about trading, turning data into results, and quantitative finance. I like digging into complex problems and being creative.
 
 ## About Me 💬
 * Bachelor of Mathematics in Mathematical Finance, Computational Math + Statisitcs
