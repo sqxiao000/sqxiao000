@@ -1,4 +1,4 @@
-## Hi there ☆ I'm Stella
+## Hi there ☆ I'm Stella!
 
 Mathematical Finance student at the University of Waterloo, passionate about trading, turning data into results, and quantitative finance. I like digging into complex problems and being creative.
 
