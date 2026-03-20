@@ -4,11 +4,12 @@ Mathematical Finance student at the University of Waterloo, passionate about tra
 
 ## About Me 💬
 * Bachelor of Mathematics in Mathematical Finance, Computational Math + Statisitcs
-* Experience: Trading, Quant Developer, Risk Management
+* Experience: S&T, Quant Developer, Risk Management
 * Skills: Python, SQL, R, MATLAB
 * Interests: Stochastic Probability, Game Theory, Algorithmic Trading, Quantitative Research, Markets
 
 ## Projects 🌱
+* Bayesian Classifier for Traditional Chinese Clothing Classification by Dynasty
 
 ## Research Papers 🔭
 * [Sudoku and Algebraic Geometry: A cool application of Gröbner bases](https://hackmd.io/@dJWrUsLbRF-fSS24QYBM1A/SkNlrgdt0)
