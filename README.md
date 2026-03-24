@@ -9,11 +9,12 @@ Mathematical Finance student at the University of Waterloo, passionate about tra
 * Interests: Stochastic Probability, Game Theory, Algorithmic Trading, Quantitative Research, Machine Learning
 
 ## Projects 🔭
-* [Bayesian Classifier for Traditional Chinese Clothing Classification by Dynasty](https://github.com/sqxiao000/bayes-hanfu)
 * [Sudoku and Algebraic Geometry: A cool application of Gröbner bases](https://hackmd.io/@dJWrUsLbRF-fSS24QYBM1A/SkNlrgdt0)
+* Bayesian Classifier for Traditional Chinese Clothing Classification by Dynasty
+* Options Stochastic Volatility: Black-Scholes vs Heston
 
-
-contact: sq2xiao@uwaterloo.ca
+## 
+reach me at sq2xiao@uwaterloo.ca
 
 <img src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif" width="800" height="350"/>
 <!--🔭 I’m currently working on a blog to expand my knowledge on data science, market research, web scraping and development.-->
