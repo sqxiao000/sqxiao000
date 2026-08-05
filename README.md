@@ -1,9 +1,9 @@
 ## Hi there ☆ I'm Stella!
 
-Mathematical Finance student at the University of Waterloo, passionate about trading, turning data into results, stochastic probability in machine learning, and quantitative finance. I like digging into complex problems and being creative.
+Mathematical Finance student at the University of Waterloo, passionate about trading, turning data into results, stochastic probability, and quantitative finance. I like digging into complex problems and being creative.
 
 ## About Me 💬
-* Bachelor of Mathematics in Mathematical Finance, Computational Math + Statistics
+* Bachelor of Mathematics in Mathematical Finance, Computational Math + Statistics Minor
 * Experience: Sales & Trading, Quant Developement, Risk Management, Fixed Income, Equities and ETFs
 * Skills: Python, SQL, R, MATLAB, C, Rust
 * Interests: Stochastic Probability, Game Theory, Algorithmic Trading, Quantitative Research, Machine Learning
